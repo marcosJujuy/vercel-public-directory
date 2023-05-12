@@ -2,3 +2,8 @@ sudo npm i -g vercel
 
 vercer dev
 
+yarn init -y
+
+yarn add next
+
+yarn add react react-dom
