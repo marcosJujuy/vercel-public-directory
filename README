@@ -1,0 +1,4 @@
+sudo npm i -g vercel
+
+vercer dev
+
