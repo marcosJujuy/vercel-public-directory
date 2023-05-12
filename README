@@ -7,3 +7,6 @@ yarn init -y
 yarn add next
 
 yarn add react react-dom
+
+# ahora creo solo el typescript
+# yarn add --dev typescript @types/react
